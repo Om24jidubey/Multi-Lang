@@ -13,7 +13,7 @@ language_options = [
 ]
 
 # 🌟 Page Config
-st.set_page_config(page_title="Om’s Multi-Language Translator", layout="centered", page_icon="🌍")
+st.set_page_config(page_title="Sneha’s Multi-Language Translator", layout="centered", page_icon="🌍")
 
 # 💡 Custom CSS for unique UI
 st.markdown("""
@@ -52,7 +52,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 🎯 Page Title
-st.markdown('<div class="title">🌍 Om’s Multi-Language Translator</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🌍 Sneha’s Multi-Language Translator</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Translate text between your favorite languages for free.</div>', unsafe_allow_html=True)
 
 # 📝 Input Section
